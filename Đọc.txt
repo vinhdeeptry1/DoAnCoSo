@@ -1,0 +1,7 @@
+Mở folder trên Visual Studio Code
+
+Tải thư viện
+pip install -q -U google-generativeai
+
+Chạy chương trình:
+View -> Terminal -> Nhập: python Fairy.py
