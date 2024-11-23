@@ -1,5 +1,0 @@
-Tìm hiểu và nhập các câu giao tiếp giữa người và người bằng Tiếng Anh vào đây
-Sử dụng cú pháp:
-User: Hello or something
-AI: Hello user or something
-LƯU Ý: hiện tại Fairy chỉ nghe và nói bằng Tiếng Anh thôi, đừng dùng ngôn ngữ khác 
