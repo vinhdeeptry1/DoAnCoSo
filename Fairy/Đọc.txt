@@ -1,0 +1,11 @@
+Mở folder trên Visual Studio Code
+
+Cài đặt môi trường ảo
+python -m venv venv
+.\venv\Scripts\activate
+
+Tải thư viện
+pip install google-generativeai
+
+Chạy chương trình:
+View -> Terminal -> Nhập: python Fairy.py
