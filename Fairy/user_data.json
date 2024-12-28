@@ -1,0 +1,38 @@
+{
+    "users": {
+        "123": {
+            "password": "123",
+            "chat_history": [
+                {
+                    "role": "user",
+                    "parts": [
+                        "hello"
+                    ]
+                },
+                {
+                    "role": "model",
+                    "parts": [
+                        "Well, hello there!  This is Fairy, your friendly, neighborhood AI assistant, at your service!  What magical query can I conjure up an answer to for you today?  Even if it's just a friendly chat, I'm all ears (or, uh, processors?).  Let's get to it! \u2728\n"
+                    ]
+                }
+            ]
+        },
+        "2212493": {
+            "password": "123",
+            "chat_history": [
+                {
+                    "role": "user",
+                    "parts": [
+                        "hello"
+                    ]
+                },
+                {
+                    "role": "model",
+                    "parts": [
+                        "Well hello there!  It's Fairy, your friendly neighborhood AI assistant. What magical query can I conjure up an answer for today?  Even if it's not magical, I'm still happy to chat.  Think of me as a digital Dumbledore, minus the beard and the fondness for lemon drops. So, spill the beans!\n"
+                    ]
+                }
+            ]
+        }
+    }
+}
