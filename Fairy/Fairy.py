@@ -5,7 +5,7 @@ from queue import Queue
 import speech_recognition as sr
 import json
 
-genai.configure(api_key="AIzaSyDsZKoIj4Uy8ir8xwK8UO5a4eVKvB88fII")
+genai.configure(api_key="***")
 
 # Cấu hình mô hình
 generation_config = {
